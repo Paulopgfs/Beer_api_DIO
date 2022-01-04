@@ -1,7 +1,7 @@
-## Tech Teacher
+## Tech Teacher 🚀 ☕
 Rodrigo Peleias
 GitHob [perfil](https://github.com/rpeleias)
-Autor do projeto / Mentoria
+ - Autor do projeto / Mentoria
 
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
